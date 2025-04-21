@@ -1,2 +1,2 @@
 # html-code
-Try to buil a portfolio website
+Try to build a portfolio website
